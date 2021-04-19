@@ -1,4 +1,4 @@
-# swipe_to_unlock
+# Swipe to Unlock
 
 Classic Stories
 - OS Markets
