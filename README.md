@@ -54,7 +54,11 @@ Classic Stories
 	- People with expertise on privacy, e2e encryption
 - Markets:
 	- From too late to too early: China, India(huge user base, mobile native not experienced pc era, data is cheap), SEA, Latin America, Africa(Facebook offers Free Basics, for free but basic Internet)
-	- 
+	- general strategies for the West is to test in India and then expand to SEA
+- East VS West:
+	- Western companies prefer to directly expand the service to other regions: Google, Facebook, Amazon, YouTube, Netflix
+	- East companies prefer to invest in local startup: Alibaba investment in Lazada, PayTM, Tencent investment in SEA, Didi investment in Grab etc.
+	- Now, mixed strategy
 - Amazon is an infra company
 	- Cloud computing
 	- Distribution center and logistics
