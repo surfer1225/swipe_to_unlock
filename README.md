@@ -5,6 +5,7 @@ Classic Stories
 	- PC: Windows,MacOS,Linux 
 	- Mobile: Android, iOS, kaios (for feature phones)
 - build cable bet/w Chicago and New York
+	- High Frequency Trader Daniel Spivey to invest in $300 million to build Internet cable to speed up trading
 - why free WiFi:
 	- Triangulation to track location and movement using MAC address
 	- Email sign in to link location data based on MAC address with online activities
